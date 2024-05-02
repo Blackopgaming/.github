@@ -1,4 +1,4 @@
-Meet our phenomenal tech team of 10, a powerhouse of innovation and technical prowess. This team is the backbone of our cutting-edge solutions, consistently pushing the boundaries of what's possible in the realm of technology.
+Meet our phenomenal tech team, a powerhouse of innovation and technical prowess. This team is the backbone of our cutting-edge solutions, consistently pushing the boundaries of what's possible in the realm of technology.
 
 Our team is adept at harnessing the power of the cloud, leveraging its scalability and flexibility to deliver robust and efficient solutions. They are experts in cloud computing technologies, from infrastructure as a service (IaaS) to platform as a service (PaaS) and software as a service (SaaS). Their proficiency in cloud-native architectures and microservices has enabled us to build resilient systems that can scale on demand.
 
